@@ -1,0 +1,76 @@
+h1, h2, h3, h4, h5 {
+    color: #163B72;
+    font-family: 'Manrope', sans-serif;
+}
+
+p {
+    color: #163B72;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.bg-color-main {
+    background-color: #D4FFF6;
+}
+
+.bg-color-secondary {
+    background-color: #FBD5C0;
+}
+
+.footer-colors, body {
+    background-color: #3F9997;
+}
+
+.footer-txt {
+    color: white;
+}
+
+.profile-icon {
+    height: 200px; 
+    border-radius: 100%;
+}
+
+.flex-container {
+    display: flex;
+    gap: 50px;
+    margin: 50px;
+    justify-content: center;
+}
+
+.card-img {
+    height: 300px;
+}
+
+.card-btn {
+    background-color: #F8A29E;
+    color: white;
+}
+
+.card-btn:hover {
+    background-color: #FBD5C0;
+}
+
+.card-title {
+    color: #163B72;
+}
+
+.card-text {
+    line-height: 200%;
+}
+
+.badge {
+    background-color: #FBD5C0;
+    color: #163B72;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+a:link {
+    color: white;
+}
+
+a:hover {
+    color: #3F9997;
+}
